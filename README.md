@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://res.cloudinary.com/dgfbyceho/image/upload/v1776509509/on8zqzbzo0jaaj1bbgxr.jpg" width="120" style="border-radius:50%;" alt="Ashish Jha"/>
+<img src="https://res.cloudinary.com/dgfbyceho/image/upload/w_120,h_120,c_fill,g_face,r_max/v1776509509/on8zqzbzo0jaaj1bbgxr.jpg" width="120" style="border-radius:50%;" alt="Ashish Jha"/>
 
 <br/>
 
@@ -29,7 +29,7 @@ public class AshishJha {
     String name        = "Ashish Jha";
     String degree      = "B.E. Information Technology (GTU)";
     String semester    = "7th Semester";
-    double cgpa        = 9.04;
+    double cgpa        = 8.5;
     String achievement = "AIR 5 — e-Yantra Robotics Competition";
 
     String[] interests = {
@@ -39,11 +39,11 @@ public class AshishJha {
         "Software Architecture"
     };
 
-    String currentFocus = "Building scalable backends & exploring cloud-native patterns";
+    String currentFocus = "Building scalable backends";
 }
 ```
 
-- 🎓 **B.E. Information Technology** at GTU | **CGPA: 9.04**
+- 🎓 **B.E. Information Technology** at GTU 
 - 🏆 **AIR 5** in **e-Yantra Robotics Competition** (IIT Bombay)
 - 💼 Passionate about **Full Stack Development**, **Backend Engineering**, and **Cloud Technologies**
 - 🌱 Currently deepening expertise in **Spring Boot**, **System Design**, and **DevOps**
@@ -85,19 +85,6 @@ public class AshishJha {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish-jha-85&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-jha-85&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-jha-85&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" alt="Top Languages"/>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -115,6 +102,7 @@ public class AshishJha {
 | 🏅 Achievement | Details |
 |---|---|
 | 🥇 **AIR 5 — e-Yantra Robotics Competition** | National-level robotics challenge by IIT Bombay |
+
 
 ---
 
