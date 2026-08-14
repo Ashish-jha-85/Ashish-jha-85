@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://github.com/Ashish-jha-85/Ashish-jha-85/blob/main/profile.png?raw=true" width="120" style="border-radius:50%;" alt="Ashish Jha"/>
+<img src="https://res.cloudinary.com/dgfbyceho/image/upload/v1776509509/on8zqzbzo0jaaj1bbgxr.jpg" width="120" style="border-radius:50%;" alt="Ashish Jha"/>
 
 <br/>
 
@@ -106,7 +106,6 @@ public class AshishJha {
 |--------|-------------|------------|
 | 🧪 **LabBuddy** | Online coding & learning platform with Monaco Editor | `Next.js` `Monaco Editor` `Node.js` |
 | 🏢 **Employee Management System** | EMS with JWT auth, RBAC, and secure REST APIs | `Spring Boot` `Spring Security` `JWT` |
-| 📢 **Complaint Kendra** | Civic complaint portal with image uploads | `Next.js` `PostgreSQL` `Cloudinary` |
 | 🤖 **College Chatbot** | RAG-powered AI chatbot with LLM integration | `LangChain` `Gemini` `FastAPI` |
 
 ---
@@ -116,13 +115,11 @@ public class AshishJha {
 | 🏅 Achievement | Details |
 |---|---|
 | 🥇 **AIR 5 — e-Yantra Robotics Competition** | National-level robotics challenge by IIT Bombay |
-| 📚 **CGPA: 9.04** | B.E. Information Technology, GTU |
 
 ---
 
 ## 🌱 Currently Learning
 
-- ☁️ **Cloud-Native Development** — AWS / GCP fundamentals
 - 🏗️ **System Design** — Scalable architecture patterns
 - 📐 **Advanced Spring Ecosystem** — Spring Cloud, microservices
 
