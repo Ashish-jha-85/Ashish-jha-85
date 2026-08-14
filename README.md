@@ -7,9 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Jha+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Cloud+%26+Software+Architecture+Learner+%E2%98%81%EF%B8%8F;AIR+5+%E2%80%94+e-Yantra+Robotics+Competition+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <br/>
-
-<img src="https://res.cloudinary.com/dgfbyceho/image/upload/w_120,h_120,c_fill,g_face,r_max/v1776509509/on8zqzbzo0jaaj1bbgxr.jpg" width="120" style="border-radius:50%;" alt="Ashish Jha"/>
-
 <br/>
 
 <!-- Profile Badges -->
